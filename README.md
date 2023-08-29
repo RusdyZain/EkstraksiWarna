@@ -1,4 +1,4 @@
-<h2>Judul Repositori: Ekstraksi Warna dengan Segmentasi untuk Deteksi dan Klasifikasi Warna Lampu Lalu Lintas menggunakan Python</h2>
+<h1>Judul Repositori: Ekstraksi Warna dengan Segmentasi untuk Deteksi dan Klasifikasi Warna Lampu Lalu Lintas menggunakan Python</h1>
 
 Deskripsi:
 Repositori ini berisi proyek "Ekstraksi Warna dengan Segmentasi" yang dikembangkan dalam konteks mata kuliah pengolahan citra digital. Proyek ini difokuskan pada penerapan teknik pengolahan citra menggunakan bahasa pemrograman Python dengan penggunaan Jupyter Notebook sebagai lingkungan pengembangan. Tujuan proyek ini adalah untuk mendemonstrasikan ekstraksi fitur warna HSV (Hue-Saturation-Value) menggunakan metode segmentasi untuk pendeteksian dan klasifikasi warna pada lampu lalu lintas.
